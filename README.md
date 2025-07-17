@@ -1,4 +1,4 @@
-# menudencia
+# vida
 Pagina de alimentacion y ejercicios beta
 <div class="imc-calculator">
   <h2>Calculadora de IMC + Plan Nutricional Completo</h2>
